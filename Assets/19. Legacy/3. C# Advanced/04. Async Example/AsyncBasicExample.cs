@@ -97,14 +97,7 @@ namespace Study.Async
             
             Debug.Log($"RollDice: {first.Result}, {second.Result}, {third.Result}, {Time.time - startTime}");
         }
-
-
-        private async void Test()
-        {
-            
-            
-            
-        }
+        
 
         private async void SumTask()
         {

@@ -24,7 +24,6 @@ namespace Study_OOP_And_Design_Pattern.Creational.Builder
         
         public override string ToString()
         {
-            string reVal;
             // 아래의 switch 문은 패턴 매칭식 스위치 문이라고 합니다
 
             string colorCode = Grade switch
@@ -66,9 +65,6 @@ namespace Study_OOP_And_Design_Pattern.Creational.Builder
             //         color = "#FFFFFF";
             //         break;
             // }
-            
-            
-            return base.ToString();
         }
     }
 

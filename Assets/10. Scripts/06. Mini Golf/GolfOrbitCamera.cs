@@ -1,7 +1,5 @@
-﻿using System;
-using Study.Utilities;
+﻿using Study.Utilities;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 namespace Study3D.MiniGolf
 {
